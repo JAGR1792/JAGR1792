@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -40,10 +40,10 @@
 
 ###
 
-<p align="left">-Bueno ya terminé de hacer el perfil, ¿ahora que sigue?<br><br>-Si</p>
+<p align="center">-Bueno ya terminé de hacer el perfil, ¿ahora que sigue?<br><br>-Si</p>
 
 ###
 
-<img align="left" height="600" src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg"  />
+<img align="center" height="600" src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg"  />
 
 
