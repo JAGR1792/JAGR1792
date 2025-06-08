@@ -46,10 +46,4 @@
 
 <img align="left" height="600" src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg"  />
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JAGR1792/JAGR1792/output/snake.svg" alt="Snake animation" />
-
-###
