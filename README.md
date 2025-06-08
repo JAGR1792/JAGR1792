@@ -44,6 +44,6 @@
 
 ###
 
-<img align="center" height="600" src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg"  />
+<img src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg" height="600" style="display: block; margin: auto;" />
 
 
