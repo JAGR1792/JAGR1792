@@ -44,6 +44,8 @@
 
 ###
 
-<img src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg" height="600" style="display: block; margin: auto;" />
+<div style="text-align: center;">
+  <img src="https://ndsc.b-cdn.net/avatars/9ca710b805fd3a7693a622796f9c4d8a.jpg" height="600" />
+</div>
 
 
