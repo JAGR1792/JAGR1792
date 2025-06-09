@@ -11,3 +11,12 @@ jobs:
       - run: echo "Hacemos algo"
       - run: echo "Hacemos algo"
       - run: echo "Hacemos algo"
+
+  job2:
+    needs: deploy
+    runs-on: ubuntu-latest
+    
+    steps:
+       - uses: actions/checkout@v4
+       - run: echo "2 tarea"
+       
