@@ -343,7 +343,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 <td width="33%">
 
 ### 🎵 Coding Playlist
-- Lo-Fi Hip Hop 🎧 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLjt39ieLaAuax60RJf8imPYY58AZXVCL4&si=qpqvSahJDPuysLwo)
+- Lo-Fi Hip Hop 🎧 [<img src="https://img.icons8.com/color/48/000000/youtube-music.png"/>](https://music.youtube.com/playlist?list=PLjt39ieLaAuax60RJf8imPYY58AZXVCL4&si=qpqvSahJDPuysLwo)
 - Synthwave Vibes 🌆
 - Classical Focus, old money vibes 🎼
 - Ambient Coding 🌊
