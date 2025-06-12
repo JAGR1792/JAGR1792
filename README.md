@@ -33,7 +33,7 @@ const jarg1792 = {
     ☕ fuel: "Café + Código"
 };
 
-console.log("¡Construyendo el futuro!");
+console.log("¡De puro chambear a las 3 am!");
 ```
 
 </td>
@@ -42,7 +42,7 @@ console.log("¡Construyendo el futuro!");
 ### 🎯 Quick Facts
 - 🔭 Trabajando en proyectos backend
 - 🌱 Aprendiendo C# y DevOps
-- 💬 Pregúntame sobre JavaScript & Python
+- 💬 Pregúntame sobre Java o css
 - ⚡ Dato curioso: Debuggeo mejor a las 3am
 - 🎵 Codeando con música lo-fi
 
@@ -343,7 +343,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 <td width="33%">
 
 ### 🎵 Coding Playlist
-- Lo-Fi Hip Hop 🎧
+- Lo-Fi Hip Hop 🎧 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLjt39ieLaAuax60RJf8imPYY58AZXVCL4&si=qpqvSahJDPuysLwo)
 - Synthwave Vibes 🌆
 - Classical Focus, old money vibes 🎼
 - Ambient Coding 🌊
