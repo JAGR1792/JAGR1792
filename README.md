@@ -3,17 +3,8 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=💎+Backend+Developer;🎨+Frontend+Enthusiast;🚀+Full+Stack+Explorer;⚡+Code+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=💎+Backend+Developer;🎨+Frontend+Enthusiast;🚀+Full+Stack+Explorer;⚡+Degustador+de+Café" alt="Typing SVG" />
 </h1>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=JAGR1792&color=blueviolet&style=for-the-badge&label=VISITORS)
-  ![GitHub followers](https://img.shields.io/github/followers/JAGR1792?style=for-the-badge&color=purple&label=FOLLOWERS)
-  ![Years Badge](https://badges.pufler.dev/years/JAGR1792?style=for-the-badge&color=blue&logo=github)
-  ![Repos Badge](https://badges.pufler.dev/repos/JAGR1792?style=for-the-badge&color=red&logo=github)
-  
-</div>
 
 <br/>
 
