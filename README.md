@@ -40,9 +40,9 @@ console.log("¡De puro chambear a las 3 am!");
 <td width="50%">
 
 ### 🎯 Quick Facts
-- 🔭 Trabajando en proyectos backend
+- 🔭 Trabajando en mejorar mí backend
 - 🌱 Aprendiendo C# y DevOps
-- 💬 Pregúntame sobre Java o css
+- 💬 Pregúntame sobre Java o css # o no se, pero preguntame (por favor)
 - ⚡ Dato curioso: Debuggeo mejor a las 3am
 - 🎵 Codeando con música lo-fi
 
@@ -239,7 +239,7 @@ System Design      ███░░░░░░░ 30%
 
 <img src="https://github-profile-trophy.vercel.app/?username=JAGR1792&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
-### 🎖️ Special Badges
+### 🎖️ Coffe Badges
 
 <table>
 <tr>
@@ -356,7 +356,8 @@ DevOps & Automation  █░░░░░░░░ 05%
 </table>
 
 ### 🚀 Mood
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=50FA7B&center=true&vCenter=true&width=500&lines=Ready+to+code+the+future!;Building+amazing+things...;Always+learning%2C+always+growing;Let's+make+something+awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF79C6&center=true&vCenter=true&width=600&lines=Maestro+de+la+precisi%C3%B3n+y+la+poes%C3%ADa;Mi+c%C3%B3digo+no+es+perfecto%2C+solo+queda+lo+que+debe+estar;El+detalle+no+es+opci%C3%B3n%2C+es+doctrina;Entre+bytes+y+sue%C3%B1os%2C+yo+elijo+ambos" />
+
 
 </div>
 
@@ -368,7 +369,7 @@ DevOps & Automation  █░░░░░░░░ 05%
   
   <h2>🚀 Gracias por mirar, recuerda que lo mejor de las visitas es cuando se van! 🚀</h2>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Happy+Coding!+💻;Keep+Building+Amazing+Things!+🚀;Code+with+Passion!+❤️;Stay+Curious%2C+Stay+Coding!+🌟" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Happy+Happy+Happy!+💻;-Bueno+ya+termine+el+perfil+ahora+que+sigue?+🚀;-si;Code+with+Passion+and+coffe!+❤️;Stay+Curious%2C+Stay+Coding!+🌟" />
   
   <br/><br/>
   
