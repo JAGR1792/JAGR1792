@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=💎+Backend+Developer;🎨+Frontend+Enthusiast;🚀+Full+Stack+Explorer;⚡+Degustador+de+Café" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=💎+Nacido+para+Backend;🎨+Forzado+a+Frontend;⚡+Degustador+de+Café" alt="Typing SVG" />
 </h1>
 
 <br/>
@@ -46,9 +46,7 @@ console.log("¡De puro chambear a las 3 am!");
 - ⚡ Dato curioso: Debuggeo mejor a las 3am
 - 🎵 Codeando con música lo-fi
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JAGR1792&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2" />
-</div>
+
 
 </td>
 </tr>
