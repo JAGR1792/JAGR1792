@@ -209,11 +209,10 @@ console.log("¡De puro chambear a las 3 am!");
 ### 📈 Learning Progress
 
 ```
-C# Programming     ████████░░ 80%
-GitHub Actions     ██████░░░░ 60%
-Docker Basics      █████░░░░░ 50%
+C# Programming     ██░░░░░░░░ 05%
+GitHub Actions     █░░░░░░░░░ 05%
+Docker Basics      ░░░░░░░░░░ 02%
 System Design      ███░░░░░░░ 30%
-Cloud Computing    ██░░░░░░░░ 20%
 ```
 
 <div align="center">
@@ -244,21 +243,10 @@ Cloud Computing    ██░░░░░░░░ 20%
 
 <table>
 <tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Code%20Quality-A+-brightgreen?style=for-the-badge&logo=codeclimate" />
-    <br/><sub>Clean Code</sub>
-  </td>
+ 
   <td align="center">
     <img src="https://img.shields.io/badge/Coffee%20Driven-100%25-brown?style=for-the-badge&logo=coffeescript" />
     <br/><sub>Caffeine Level</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Bug%20Hunter-Expert-red?style=for-the-badge&logo=debug" />
-    <br/><sub>Debugging Skills</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/Problem%20Solver-Pro-blue?style=for-the-badge&logo=puzzle" />
-    <br/><sub>Logic Master</sub>
   </td>
 </tr>
 </table>
@@ -280,10 +268,6 @@ Cloud Computing    ██░░░░░░░░ 20%
 <table>
 <tr>
 <td width="50%">
-
-### 🔥 Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JAGR1792&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&custom_title=Weekly%20Coding%20Time" />
-
 
 
 ### 📊 Language Distribution
@@ -342,8 +326,8 @@ DevOps & Automation  █░░░░░░░░ 05%
 <tr>
 <td width="33%">
 
-### 🎵 Coding Playlist
-- Lo-Fi Hip Hop 🎧 [<img src="https://img.icons8.com/color/48/000000/youtube-music.png"/>](https://music.youtube.com/playlist?list=PLjt39ieLaAuax60RJf8imPYY58AZXVCL4&si=qpqvSahJDPuysLwo)
+### 🎵 Coding Playlist [<img src="https://img.icons8.com/color/48/000000/youtube-music.png"/>](https://music.youtube.com/playlist?list=PLjt39ieLaAuax60RJf8imPYY58AZXVCL4&si=qpqvSahJDPuysLwo)
+- Lo-Fi Hip Hop 🎧 
 - Synthwave Vibes 🌆
 - Classical Focus, old money vibes 🎼
 - Ambient Coding 🌊
