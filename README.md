@@ -23,8 +23,7 @@
 
 ## 🚀 Sobre mí
 
-<div align="center">
-  
+  <div>
 ```javascript
 const jarg1792 = {
     📍 ubicacion: "Colombia 🇨🇴",
