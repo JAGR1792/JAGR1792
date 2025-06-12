@@ -306,7 +306,8 @@ DevOps & Automation  █░░░░░░░░ 05%
   
   ### 🎯 Personal Motto
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=El+mejor+código+es+el+que+escribes+sin+razón+a+las+3+am;Code+is+poetry%2C+debugging+is+detective+work;First+solve+the+problem%2C+then+make+it+beautiful;Coffee+in%2C+code+out%2C+bugs+nowhere+to+be+found" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=El+mejor+c%C3%B3digo+es+el+que+escribes+sin+raz%C3%B3n+a+las+3+am;Coffee+in%2C+code+out%2C+bugs+nowhere+to+be+found;No+fuerzo+mi+c%C3%B3digo+a+ser+perfecto%2C+solo+le+quito+las+cosas+que+le+impiden+serlo;Dormir+es+opcional" />
+
 
 </div>
 
@@ -356,7 +357,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 </table>
 
 ### 🚀 Mood
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF79C6&center=true&vCenter=true&width=600&lines=Maestro+de+la+precisi%C3%B3n+y+la+poes%C3%ADa;Mi+c%C3%B3digo+no+es+perfecto%2C+solo+queda+lo+que+debe+estar;El+detalle+no+es+opci%C3%B3n%2C+es+doctrina;Entre+bytes+y+sue%C3%B1os%2C+yo+elijo+ambos" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF79C6&center=true&vCenter=true&width=600&lines=Maestro+de+la+precisi%C3%B3n+y+la+poes%C3%ADa;Veni+vidi+vici;El+detalle+no+es+opci%C3%B3n%2C+es+doctrina;En+mí+mente+si+compila" />
 
 
 </div>
@@ -369,7 +370,7 @@ DevOps & Automation  █░░░░░░░░ 05%
   
   <h2>🚀 Gracias por mirar, recuerda que lo mejor de las visitas es cuando se van! 🚀</h2>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Happy+Happy+Happy!+💻;-Bueno+ya+termine+el+perfil+ahora+que+sigue?+🚀;-si;Code+with+Passion+and+coffe!+❤️;Stay+Curious%2C+Stay+Coding!+🌟" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Happy+Happy+Happy!+💻;-Bueno+ya+termine+el+perfil+ahora+que+sigue?+🚀;-si;Code+with+Passion+and+coffe!+❤️;¿CAFÉ?,+¿DONDE?+🌟" />
   
   <br/><br/>
   
