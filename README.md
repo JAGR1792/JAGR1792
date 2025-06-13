@@ -117,7 +117,7 @@ console.log("¡De puro chambear a las 3 am!");
     <br/>Java
   </td>
   <td align="center" width="96">
-    <img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" width="65" height="65" alt="Rust" />
+    <img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" width="65" height="65" style="object-fit: contain;" alt="Rust" />
     <br/>Rust
   </td>
   <td align="center" width="96">
