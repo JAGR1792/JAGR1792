@@ -128,7 +128,7 @@ console.log("¡De puro chambear a las 3 am!");
 </table>
 
 ### **🎨 Frontend & UI/UX**
-
+<p>Se que no sé, pero coloco igualmente.</p>
 <table align="center">
 <tr>
   <td align="center" width="96">
@@ -150,30 +150,9 @@ console.log("¡De puro chambear a las 3 am!");
 </tr>
 </table>
 
-### **⚙️ Herramientas & DevOps**
 
-<table align="center">
-<tr>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-    <br/>Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
-    <br/>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
-    <br/>VS Code
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-    <br/>Docker
-  </td>
-</tr>
-</table>
 
-</div>
+
 
 <br/>
 
