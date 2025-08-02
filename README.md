@@ -181,7 +181,7 @@ console.log("¡De puro chambear a las 3 am!");
 ### 📈 Learning Progress
 
 ```
-C# Programming     ██░░░░░░░░ 05%
+Java Programming     ██░░░░░░░░ 05%
 GitHub Actions     █░░░░░░░░░ 05%
 Docker Basics      ░░░░░░░░░░ 02%
 System Design      ███░░░░░░░ 30%
