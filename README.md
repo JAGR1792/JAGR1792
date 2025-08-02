@@ -100,13 +100,11 @@ console.log("¡De puro chambear a las 3 am!");
 
 <table align="center">
 <tr>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
-    <br/>JavaScript
+  
   </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
-    <br/>Python
+    <br/>Python<img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
   </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
@@ -114,15 +112,12 @@ console.log("¡De puro chambear a las 3 am!");
   </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java" />
-    <br/>Java
+    <br/>Java <img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
   </td>
   <td align="center" width="96">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" height="65" alt="Rust" />
-    <br/>Rust
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65" height="65" alt="C#" />
-    <br/>C# <img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
+    <br/>Rust <img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
+    
   </td>
 </tr>
 </table>
