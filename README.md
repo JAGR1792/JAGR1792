@@ -106,10 +106,7 @@ console.log("¡De puro chambear a las 3 am!");
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
     <br/>Python<img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
   </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
-    <br/>C++
-  </td>
+
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java" />
     <br/>Java <img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
@@ -134,10 +131,7 @@ console.log("¡De puro chambear a las 3 am!");
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS3" />
     <br/>CSS3
   </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="65" height="65" alt="Angular" />
-    <br/>Angular
-  </td>
+ 
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
     <br/>Figma
