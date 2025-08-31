@@ -89,9 +89,9 @@ console.log("¡De puro chambear a las 3 am!");
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Rest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Proyecto-Estructura-de-Datos-Lineales&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SKing25&repo=Proyecto-Estructura-de-Datos-Lineales&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Pokedex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SKing25&repo=Pokedex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
 
 ---
 
