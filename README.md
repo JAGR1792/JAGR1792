@@ -62,51 +62,40 @@ console.log("¡De puro chambear a las 3 am!");
 
 <br/>
 
-🏅 Logros de GitHub
-<div align="center">
-  
-<img src="https://img.shields.io/badge/YOLO-fusionado%20sin%20revisi%C3%B3n-red?style=for-the-badge" alt="YOLO Achievement" />
-<img src="https://img.shields.io/badge/Quickdraw-Cerrado%20en%205%20minutos-blue?style=for-the-badge" alt="Quickdraw Achievement" />
-<img src="https://img.shields.io/badge/Pull%20Shark-16+%20PRs%20fusionados-orange?style=for-the-badge" alt="Pull Shark Achievement" />
-<img src="https://img.shields.io/badge/Starstruck-16+%20estrellas%20en%20repo-yellow?style=for-the-badge" alt="Starstruck Achievement" />
-<img src="https://img.shields.io/badge/Galaxy%20Brain-Respuesta%20aceptada-purple?style=for-the-badge" alt="Galaxy Brain Achievement" />
-  
-</div>
 
-<br/>
 
 ## 📊 Estadísticas Detalladas
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/JAGR1792/private-stats)
+<div align="center">
+
+### 🔐 Stats Privadas (Greptile)
+
+![Github Stats](https://greptile-stats.vercel.app/api/widget/JAGR1792/private-stats)  
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/JAGR1792/quirk)
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JAGR1792&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" />
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=JAGR1792&theme=tokyonight&hide_border=true&background=0D1117&stroke=BD93F9&ring=50FA7B&fire=FF79C6&currStreakLabel=F8F8F2&sideLabels=F8F8F2&dates=8BE9FD" />
+---
+
+### 🌙 GitHub Stats (Estilo Tokyo Night)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JAGR1792&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=JAGR1792&theme=tokyonight&hide_border=true&background=0D1117&stroke=BD93F9&ring=50FA7B&fire=FF79C6&currStreakLabel=F8F8F2&sideLabels=F8F8F2&dates=8BE9FD" />
+
+---
+
+### 🔥 Lenguajes y Repositorio Destacado
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGR1792&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&custom_title=🔥%20Lenguajes%20Más%20Usados&langs_count=10&card_width=400" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=JAGR1792&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+
+---
+
+### 📈 Gráfico de Contribuciones
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGR1792&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BD93F9&line=50FA7B&point=FF79C6&area=true&hide_title=false&custom_title=📈%20Contribution%20Graph" width="98%" />
 
 </div>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGR1792&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&custom_title=🔥%20Lenguajes%20Más%20Usados&langs_count=10&card_width=400" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=JAGR1792&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAGR1792&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BD93F9&line=50FA7B&point=FF79C6&area=true&hide_title=false&custom_title=📈%20Contribution%20Graph" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
 
 ## 🛠️ Arsenal Tecnológico
 
