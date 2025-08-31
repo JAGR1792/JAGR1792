@@ -75,7 +75,7 @@ console.log("¡De puro chambear a las 3 am!");
 
 ---
 
-### 🌙 GitHub Stats (Estilo Tokyo Night)
+### 🌙 GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JAGR1792&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" />
 
@@ -87,7 +87,11 @@ console.log("¡De puro chambear a las 3 am!");
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGR1792&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&custom_title=🔥%20Lenguajes%20Más%20Usados&langs_count=10&card_width=400" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=JAGR1792&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Rest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Proyecto-Estructura-de-Datos-Lineales&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Pokedex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
 
 ---
 
