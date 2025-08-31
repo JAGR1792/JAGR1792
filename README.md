@@ -62,6 +62,19 @@ console.log("¡De puro chambear a las 3 am!");
 
 <br/>
 
+🏅 Logros de GitHub
+<div align="center">
+  
+<img src="https://img.shields.io/badge/YOLO-fusionado%20sin%20revisi%C3%B3n-red?style=for-the-badge" alt="YOLO Achievement" />
+<img src="https://img.shields.io/badge/Quickdraw-Cerrado%20en%205%20minutos-blue?style=for-the-badge" alt="Quickdraw Achievement" />
+<img src="https://img.shields.io/badge/Pull%20Shark-16+%20PRs%20fusionados-orange?style=for-the-badge" alt="Pull Shark Achievement" />
+<img src="https://img.shields.io/badge/Starstruck-16+%20estrellas%20en%20repo-yellow?style=for-the-badge" alt="Starstruck Achievement" />
+<img src="https://img.shields.io/badge/Galaxy%20Brain-Respuesta%20aceptada-purple?style=for-the-badge" alt="Galaxy Brain Achievement" />
+  
+</div>
+
+<br/>
+
 ## 📊 Estadísticas Detalladas
 
 <div align="center">
