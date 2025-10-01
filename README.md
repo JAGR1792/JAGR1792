@@ -45,7 +45,7 @@ console.log("¡De puro chambear a las 3 am!");
 - 💬 Pregúntame sobre Java o css # o no se, pero preguntame (por favor)
 - ⚡ Dato curioso: Debuggeo mejor a las 3am
 - 🎵 Codeando con música lo-fi
-
+- ♟️Compitiendo en CCPL
 
 
 </td>
@@ -329,6 +329,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 - 🎸 Playing Guitar
 - ✨ GENSHIN IMPACT
 - 🌱 Learning Something New
+- 📈 Codewars (yep I know that actually is coding, but, it's competitive programming, that is my hobby, a little bit weird, yup, but that's mine)
 
 </td>
 </tr>
