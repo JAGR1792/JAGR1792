@@ -71,6 +71,7 @@ console.log("¡De puro chambear a las 3 am!");
 ### 🔐 Stats Privadas (Greptile)
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/JAGR1792/private-stats)  
+
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/JAGR1792/quirk)
 
 ---
