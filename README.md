@@ -27,7 +27,7 @@ const jarg1792 = {
     📍 location: "Colombia 🇨🇴",
     🎓 education: "CCIA",
     💜 passion: "Backend Development",
-    😅 reality: "Frontend también",
+    😅 reality: "Frontend",
     📖 learning: ["C#", "GitHub Actions"],
     🎯 skill: "Centrar divs ✨",
     ☕ fuel: "Café + Código"
@@ -42,7 +42,7 @@ console.log("¡De puro chambear a las 3 am!");
 ### 🎯 Quick Facts
 - 🔭 Trabajando en mejorar mí backend
 - 🌱 Aprendiendo C# y DevOps
-- 💬 Pregúntame sobre Java o css # o no se, pero preguntame (por favor)
+- 💬 Preguntame lo que quieras
 - ⚡ Dato curioso: Debuggeo mejor a las 3am
 - 🎵 Codeando con música lo-fi
 - ♟️Compitiendo en CCPL
@@ -331,6 +331,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 - ✨ GENSHIN IMPACT
 - 🌱 Learning Something New
 - 📈 Codewars (yep I know that actually is coding, but, it's competitive programming, that is my hobby, a little bit weird, yup, but that's mine)
+  
 
 </td>
 </tr>
