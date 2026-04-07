@@ -28,7 +28,8 @@ const jarg1792 = {
     🎓 education: "CCIA",
     💜 passion: "Backend Development",
     😅 reality: "Frontend",
-    📖 learning: ["C#", "GitHub Actions"],
+    📖 learning: ["C++", "GitHub Actions"],
+    🐧 os: "Arch Linux only",
     🎯 skill: "Centrar divs ✨",
     ☕ fuel: "Café + Código"
 };
@@ -46,6 +47,7 @@ console.log("¡De puro chambear a las 3 am!");
 - ⚡ Dato curioso: Debuggeo mejor a las 3am
 - 🎵 Codeando con música lo-fi
 - ♟️Compitiendo en CCPL
+- 🐧 Arch Linux only btw
 
 
 </td>
@@ -68,11 +70,9 @@ console.log("¡De puro chambear a las 3 am!");
 
 <div align="center">
 
-### 🔐 Stats Privadas
+### 🔐 Resumen Pro
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAGR1792&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAGR1792&theme=tokyonight" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAGR1792&theme=tokyonight" />
 
 ---
 
@@ -111,16 +111,14 @@ console.log("¡De puro chambear a las 3 am!");
 
 <table align="center">
 <tr>
-  
-  </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
     <br/>Python<img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
   </td>
 
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java" />
-    <br/>Java <img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
+    <br/>C++ <img src="https://img.shields.io/badge/Learning-yellow?style=flat-square" />
   </td>
   <td align="center" width="96">
     <img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" height="65" alt="Rust" />
@@ -144,8 +142,8 @@ console.log("¡De puro chambear a las 3 am!");
   </td>
  
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="Figma" />
-    <br/>Figma
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
+    <br/>JavaScript
   </td>
 </tr>
 </table>
@@ -186,7 +184,11 @@ console.log("¡De puro chambear a las 3 am!");
 ### 📈 Learning Progress
 
 ```
-C++ Programming     
+C++ Programming     ██░░░░░░░░ 20%
+GitHub Actions      █░░░░░░░░░ 10%
+Docker Basics       █░░░░░░░░░ 10%
+System Design       ███░░░░░░░ 30%
+Arch Linux Mastery  ███████░░░ 70%
 ```
 
 <div align="center">
@@ -229,49 +231,19 @@ C++ Programming
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-## 📈 Detailed Analytics
+## 📈 Focus Snapshot
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-
-### 📊 Language Distribution
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAGR1792&theme=tokyonight" />
 
 ### 🎯 Focus Areas
 ```
-Frontend Styling  ██████████ ∞%
-Backend Development ████████░░ 60%
-    
-DevOps & Automation  █░░░░░░░░ 05%
-
+Frontend Styling      ██████████ ∞%
+Backend Development   ████████░░ 60%
+DevOps & Automation   ██░░░░░░░░ 20%
+Linux Tinkering       █████████░ 90%
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAGR1792&theme=tokyonight" width="98%" />
 
 ## 💭 Daily Inspiration
 
@@ -286,12 +258,6 @@ DevOps & Automation  █░░░░░░░░ 05%
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=El+mejor+c%C3%B3digo+es+el+que+escribes+sin+raz%C3%B3n+a+las+3+am;Coffee+in%2C+code+out%2C+bugs+nowhere+to+be+found;No+fuerzo+a+mi+c%C3%B3digo;a+ser+perfecto%2C+solo+le+quito+las+cosas+que+le+impiden+serlo;Dormir+es+opcional" />
 
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
@@ -327,6 +293,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 - 🏃‍♂️ Running (Debug Mode)
 - 🎸 Playing Guitar
 - ✨ GENSHIN IMPACT
+- 🐧 Install/reinstall Arch Linux for fun
 - 🌱 Learning Something New
 - 📈 Codewars (yep I know that actually is coding, but, it's competitive programming, that is my hobby, a little bit weird, yup, but that's mine)
   
