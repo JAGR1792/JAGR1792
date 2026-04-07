@@ -68,11 +68,11 @@ console.log("¡De puro chambear a las 3 am!");
 
 <div align="center">
 
-### 🔐 Stats Privadas (Greptile)
+### 🔐 Stats Privadas
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/JAGR1792/private-stats)  
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAGR1792&theme=tokyonight" />
 
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/JAGR1792/quirk)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAGR1792&theme=tokyonight" />
 
 ---
 
@@ -273,7 +273,7 @@ DevOps & Automation  █░░░░░░░░ 05%
 <br/>
 
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/JAGR1792/contributions)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAGR1792&theme=tokyonight" width="98%" />
 
 ## 💭 Daily Inspiration
 
