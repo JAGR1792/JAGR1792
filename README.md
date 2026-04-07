@@ -78,7 +78,7 @@ console.log("¡De puro chambear a las 3 am!");
 
 ### 🌙 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JAGR1792&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B&include_all_commits=true&count_private=true&custom_title=📈%20GitHub%20Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAGR1792&theme=tokyonight" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=JAGR1792&theme=tokyonight&hide_border=true&background=0D1117&stroke=BD93F9&ring=50FA7B&fire=FF79C6&currStreakLabel=F8F8F2&sideLabels=F8F8F2&dates=8BE9FD" />
 
@@ -86,13 +86,14 @@ console.log("¡De puro chambear a las 3 am!");
 
 ### 🔥 Lenguajes y Repositorio Destacado
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAGR1792&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&custom_title=🔥%20Lenguajes%20Más%20Usados&langs_count=10&card_width=400" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAGR1792&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JAGR1792&repo=Rest&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAGR1792&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SKing25&repo=Proyecto-Estructura-de-Datos-Lineales&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SKing25&repo=Pokedex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&icon_color=50FA7B" />
+### 📌 Repositorios Destacados
+- [Rest](https://github.com/JAGR1792/Rest)
+- [Proyecto-Estructura-de-Datos-Lineales](https://github.com/SKing25/Proyecto-Estructura-de-Datos-Lineales)
+- [Pokedex](https://github.com/SKing25/Pokedex)
 
 ---
 
@@ -185,14 +186,11 @@ console.log("¡De puro chambear a las 3 am!");
 ### 📈 Learning Progress
 
 ```
-Java Programming     ██░░░░░░░░ 05%
-GitHub Actions     █░░░░░░░░░ 05%
-Docker Basics      ░░░░░░░░░░ 02%
-System Design      ███░░░░░░░ 30%
+C++ Programming     
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGR1792&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAGR1792&theme=tokyonight" width="300" />
 </div>
 
 </td>
@@ -247,7 +245,7 @@ System Design      ███░░░░░░░ 30%
 
 
 ### 📊 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAGR1792&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAGR1792&theme=tokyonight" />
 
 ### 🎯 Focus Areas
 ```
